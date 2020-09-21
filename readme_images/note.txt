@@ -1,0 +1,1 @@
+Ignore images in this folder..
