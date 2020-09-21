@@ -43,7 +43,7 @@ Make it yours with these simple changes.
  
 After making changes deploy it.  
 
-I highly recommend Github Pages to deployas it is so simple  
+I highly recommend Github Pages to deploy as it is so simple  
 + Add modified files to your repository and enable Github pages in repository settings..
 
 
